@@ -1,4 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6df25534-1ae5-42b9-aa1e-03abec36b42b/deploy-status)](https://app.netlify.com/projects/creative-dasik-35952d/deploys)
+[![NodeJS with Webpack](https://github.com/laisee/todo/actions/workflows/webpack.yml/badge.svg)](https://github.com/laisee/todo/actions/workflows/webpack.yml)
 
 ## Todo App
 
